@@ -1,0 +1,34 @@
+Alejandro Romeo:
+
+El punto crítico es la sostener la integración
+
+Replicación de bases de datos
+(esto es lo que demanda más tiempo)
+
+Si queremos usar el mismo Framework no hay problema, pero no conviene si no hay manejo del mismo
+Las API's ya están y si no están se hacen de la forma que BQ/SC solitice con 'relativa' velocidad.
+
+sportclub.com.ar se tendría que ir migrando paulatinamente, se puede arrancar por la home o por las api's
+
+Lo unico que se ve en la home es el tema de los datos - placeholder , el FW le coloca un objeto, 
+
+redireccionar home a subdominio (forma más rápido)
+
+sportclub.com.ar
+
+Cris Juarez:
+
+La base la pide webflow. Por lo que no se puede conectar con una API de forma dinámica
+
+Redirigir todo a 
+
+Plan claro para poder proyectar el traspaso.
+
+Agus:
+
+revisar .ia "final"
+slider
+slider fijo
+foto edificio sportclub/workclub
+
+HubSpot
