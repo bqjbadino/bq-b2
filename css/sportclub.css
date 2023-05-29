@@ -26716,7 +26716,7 @@ figcaption {
   border-radius: 50px;
   font-family: Gotham, sans-serif;
   font-weight: 400;
-  display: none;
+  /*display: none;*/
 }
 
 .button-mensual-websc {
